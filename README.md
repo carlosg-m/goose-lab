@@ -10,5 +10,5 @@
   
   - The format is [Raster](https://desktop.arcgis.com/en/arcmap/10.3/manage-data/raster-and-images/what-is-raster-data.htm) data (geotiff), divided into 1000x1000km tiles, 25m resolution, accuracy of [~7m RMSE](https://ec.europa.eu/eurostat/documents/7116161/7172326/Report-EU-DEM-statistical-validation-August2014.pdf). 
   - The only dependencies of this script are Numpy, Pandas, Pyproj and Rasterio. 
-  - The process was designed to minimize memory consuption. Tiles or chunks of the rasters are read sequentially from storage.
+  - The process was designed to minimize memory consumption. Tiles or chunks of the rasters are read sequentially from storage.
   - A distributed version of this script can be easily created with Dask for Big Data use cases.
