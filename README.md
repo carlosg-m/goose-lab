@@ -12,3 +12,4 @@
   - The only dependencies of this script are Numpy, Pandas, Pyproj and Rasterio. 
   - The process was designed to minimize memory consumption. Tiles or chunks of the rasters are read sequentially from storage.
   - A distributed version of this script can be easily created with Dask for Big Data use cases.
+  - Input coordinates are assumed to be in WGS84 (latitude and longitude).
