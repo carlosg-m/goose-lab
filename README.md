@@ -1,7 +1,3 @@
-<head>
-<meta name="google-site-verification" content="DTOjCSQJRKu0XD0mQ8osu05s10cZ2kEATSOPbAtzIkE" />
-</head>
-
 # goose
 <b>Recipes for geospatial data processing in Python.</b>
 
