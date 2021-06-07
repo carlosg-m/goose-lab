@@ -21,7 +21,7 @@ Intersect points with rectangles from a regular grid without a spatial index (us
 
 <b>Basic usage example:</b>
 1) Download the raster tiles from [Copernicus website](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1).
-2) Instanciate the object `CopernicusDEM` with the geotiff file paths and call the `get_elevation` method over a Pandas dataframe with latitude and longitude columns.
+2) Instantiate  the object `CopernicusDEM` with the geotiff file paths and call the `get_elevation` method over a Pandas dataframe with latitude and longitude columns.
 ```
 airports = pd.DataFrame([['LPPT', 38.775600, -9.135400],
                          ['LPPR', 41.242100, -8.678600],
