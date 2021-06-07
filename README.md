@@ -15,4 +15,3 @@
   - Input coordinates are assumed to be in WGS84 (latitude and longitude).
 
 
-<meta name="google-site-verification" content="D5GHNcpnJefwp9KQnrRTOMtRZg1zOuv5SuX47FzerdI" />
