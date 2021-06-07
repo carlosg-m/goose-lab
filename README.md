@@ -1,3 +1,9 @@
+<head>
+<meta name="google-site-verification" content="D5GHNcpnJefwp9KQnrRTOMtRZg1zOuv5SuX47FzerdI" />
+</head>
+
+<body>
+  
 # goose
 <b>Recipes for geospatial data processing in Python.</b>
 
@@ -40,3 +46,4 @@ print(airports)
 ```
 ![image](https://user-images.githubusercontent.com/55836583/121090044-e3e4f700-c7df-11eb-8fff-45ba81423b03.png)
 
+</body>
