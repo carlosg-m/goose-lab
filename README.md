@@ -10,7 +10,7 @@ Efficiently generate the bounding coordinates (xmin, ymin, xmax, ymax) of a 2d r
 Intersect points with rectangles from a regular grid without a spatial index (using only NumPy). Useful for processing rasters larger than memory through reading windows or creating database indexes.
 
 
-#### [Notebook 3 - retrieve elevation for any point in Europe.](https://github.com/carlosg-m/goose/blob/e87259c28e47dc60227979b0a16becb23821f2f6/Copernicus%20-%20retrieve%20elevation%20for%20any%20point%20in%20Europe%20(Pandas%20version).ipynb) 
+#### [Notebook 3 - retrieve elevation for any point in Europe](https://github.com/carlosg-m/goose/blob/e87259c28e47dc60227979b0a16becb23821f2f6/Copernicus%20-%20retrieve%20elevation%20for%20any%20point%20in%20Europe%20(Pandas%20version).ipynb) 
 - The dataset is the [European Digital Elevation Model (EU-DEM), version 1.1](https://land.copernicus.eu/imagery-in-situ/eu-dem/eu-dem-v1.1) from European Union's Copernicus Programme. 
 
 - The format is [Raster](https://desktop.arcgis.com/en/arcmap/10.3/manage-data/raster-and-images/what-is-raster-data.htm) data (geotiff), divided into 1000x1000km tiles, 25m resolution, accuracy of [~7m RMSE](https://ec.europa.eu/eurostat/documents/7116161/7172326/Report-EU-DEM-statistical-validation-August2014.pdf). 
