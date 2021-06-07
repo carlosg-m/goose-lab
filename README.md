@@ -34,4 +34,3 @@ airports = copernicus.get_elevation(airports, lat_col='Latitude', lon_col='Longi
 ```
 ![image](https://user-images.githubusercontent.com/55836583/121090044-e3e4f700-c7df-11eb-8fff-45ba81423b03.png)
 
-
