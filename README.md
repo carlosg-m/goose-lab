@@ -2,7 +2,7 @@
 <b>Recipes for geospatial data processing in Python.</b>
 
 
-#### [Notebook 1 - create bounding box coordinates of a regular grid in Numpy](https://github.com/carlosg-m/goose/blob/7288655edbaa9c84f4c2885e4c7386195508af1d/Create%202d%20grid%20with%20NumPy.ipynb)
+#### [Notebook 1 - generate bounding box coordinates of a regular grid in Numpy](https://github.com/carlosg-m/goose-lab/blob/18c1da3408ad04ad8456b49551d78c3d36c2cfcb/Create%202d%20grid%20with%20NumPy.ipynb)
 Efficiently generate the bounding coordinates (xmin, ymin, xmax, ymax) of a 2d regular grid in numpy. This array can be easily converted into shapely or pygeos geometries.
 
 
