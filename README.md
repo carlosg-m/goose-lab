@@ -1,4 +1,4 @@
-# goose
+# goose-lab
 <b>Recipes for geospatial data processing in Python.</b>
 
 
@@ -6,7 +6,7 @@
 Efficiently generate the bounding coordinates (xmin, ymin, xmax, ymax) of a 2d regular grid in numpy. This array can be easily converted into shapely or pygeos geometries.
 
 
-#### [Notebook 2 - intersect points with a regular grid without a spatial index](https://github.com/carlosg-m/goose/blob/7288655edbaa9c84f4c2885e4c7386195508af1d/Intersect%20points%20with%20a%20regular%20grid%20without%20a%20spatial%20index.ipynb)
+#### [Notebook 2 - intersect points with a regular grid without a spatial index](https://github.com/carlosg-m/goose-lab/blob/f1f54901b71a13099277fc3cbcfcaf09fdae9f52/Intersect%20points%20with%20a%20regular%20grid%20without%20a%20spatial%20index.ipynb)
 Intersect points with rectangles from a regular grid without a spatial index (using only NumPy). Useful for processing rasters larger than memory through reading windows or creating database indexes.
 
 
